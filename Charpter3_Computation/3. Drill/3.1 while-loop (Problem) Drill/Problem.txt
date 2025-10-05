@@ -1,0 +1,7 @@
+1. How to use try-catch-statement?
+
+2. How convert from integer of string to real integer value?
+If you really want to do this, use the std::stoi()
+
+3. when you use std::stoi() you probably meet two exceptions. One exception is the argument of stoi() that is received a wrong type. Second exception
+is the argument of stoi() that is transmitted a exceeded value.
