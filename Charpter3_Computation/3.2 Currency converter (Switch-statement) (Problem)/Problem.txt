@@ -1,0 +1,2 @@
+1. How can I use switch-statement to write a currency convertor program? Because the argument and case: argument of switch-statement only support
+integer value or integer operation. 
